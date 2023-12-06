@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+}
+
+.finances_procent {
+  padding-left: 100px;
+  font-size: 12px;
+}
+.finances_procent > img {
+  width: 400px;
+}
+
+.finances_description {
+  display: block;
+  padding-left: 200px;
+  width: 500px;
+  height: 400px;
+  font-size: 10px;
+}
+
+.finances_description > h1 {
+  font-size: 30px;
+}

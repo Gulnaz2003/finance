@@ -1,0 +1,49 @@
+.header {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 1024px;
+}
+
+.header_menu {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  font-size: 10px;
+  gap: 20px;
+  padding-left: 350px;
+  position: relative;
+  bottom: 40px;
+}
+
+.header_menu > a {
+  gap: 15px;
+  text-decoration-line: none;
+  color: rgb(0, 0, 0);
+}
+
+.header_logo {
+  font-size: 12px;
+  display: flex;
+  padding-left: 100px;
+}
+
+.header_logo > img {
+  width: 40px;
+  height: 40px;
+  z-index: 1;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+.header_logo > h3 {
+  display: inline-block;
+  z-index: 1;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.header_menu Button {
+  position: relative;
+  bottom: 10px;
+}

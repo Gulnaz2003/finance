@@ -1,0 +1,51 @@
+.company {
+  display: block;
+}
+
+.compan {
+  display: flex;
+  justify-content: flex-end;
+
+  gap: 8%;
+  margin: 40px 90px 0px 40px;
+  padding-right: 150px;
+}
+
+.compan img {
+  width: 120px;
+  height: 40px;
+}
+
+.hub_description p {
+  display: flex;
+  padding-bottom: 40px;
+}
+
+.hub {
+  display: flex;
+  margin: 80px;
+  gap: 10%;
+  padding-bottom: 50px;
+}
+
+.hub img {
+  width: 270px;
+  height: 250px;
+}
+
+.read {
+  display: block;
+  justify-content: center;
+  background-color: rgb(63, 201, 201);
+  color: black;
+  margin: 80px;
+  padding: 30px 0 0 80px;
+  height: 200px;
+}
+
+.buttonhub {
+  position: relative;
+  padding-left: 750px;
+  z-index: 1;
+  bottom: 220px;
+}

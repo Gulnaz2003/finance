@@ -1,0 +1,48 @@
+.finance_switch {
+  display: flex;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 50px;
+  margin: 60px;
+  gap: 8%;
+}
+
+.switch_text {
+  display: block;
+}
+
+.finance_software img {
+  width: 150px;
+  height: 100px;
+}
+
+.finance_cashflow img {
+  width: 150px;
+  height: 100px;
+}
+
+.finance_support img {
+  width: 150px;
+  height: 100px;
+}
+
+.finances {
+  background-color: rgb(251, 196, 204);
+  padding: 30px 0 30px 0;
+}
+
+.switch_text h1 {
+  padding-left: 120px;
+}
+
+.switch_text p {
+  font-size: 12px;
+}
+
+.button {
+  display: flex;
+  padding-left: 110px;
+  bottom: 60px;
+  position: relative;
+}
